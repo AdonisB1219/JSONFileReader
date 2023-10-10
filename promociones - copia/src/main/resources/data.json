@@ -1,0 +1,114 @@
+{
+    "success":true,
+    "results":28,
+    "insurers":[
+       {
+          "promotions":[
+             {
+                "type":"",
+                "dto":"tos!",
+                "msi":"+ 3 y 6",
+                "label":"",
+                "urlImg":"https://-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses Sin Intereses"
+             }
+          ],
+          "_id":"6700",
+          "name":""
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Grandes descuentos!",
+                "msi":"+ Meses Sin Intereses",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.dromos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             }
+          ],
+          "_id":"610270c63c2717",
+          "name":"A"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"11% de descuento",
+                "msi":"+ 3 y 6",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitalocear/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"uber",
+                "dto":"Increíbles Precios",
+                "msi":" + 3, 6, 9 y 12",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitalor/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"gmm",
+                "dto":"Increíbles Precios ",
+                "msi":"+ Promociones",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3..com/prod-mx/promos-manager/logotipo.svg",
+                "extraMsg":""
+             }
+          ],
+          "_id":"",
+          "name":""
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"30% de descuento",
+                "msi":"+ 3 y 6",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloclogotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             }
+          ],
+          "_id":"61063c2723",
+          "name":""
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"10% de descuento",
+                "msi":"+ 3, 6 y 9",
+                "label":"Hasta",
+                "urlImg":"https://sfo3./logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Mesereses"
+             }
+          ],
+          "_id":"6102724",
+          "name":""
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles Precios!",
+                "msi":"",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.der/logotipo.svg",
+                "extraMsg":""
+             }
+          ],
+          "_id":"62d936f",
+          "name":"S"
+       }
+    ]
+ }
