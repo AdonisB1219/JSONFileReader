@@ -1,0 +1,145 @@
+{
+    "success":true,
+    "results":28,
+   "asaRecomendada": {
+      "id": 1,
+      "aseguradora": "",
+      "fechaExpiracion": "2028-02-28",
+      "fechaInicio": "2023-02-01",
+      "activo": 1
+   },
+    "insurers":[
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles descuentos!",
+                "msi":"+ 3 y 6",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspacipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses Sin Intereses"
+             }
+          ],
+          "_id":"61008c8f86083270c63c2700",
+          "name":"A"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"30% de ",
+                "msi":"+ 3, 6, 9 y 12",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloceapo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"vdir",
+                "dto":"¡Increíbles precios!",
+                "msi":"+ Meses sin intereses",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspactipo.svg",
+                "extraMsg":""
+             }
+          ],
+          "_id":"610091ef86083270c63c2715",
+          "name":""
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles descuentos!",
+                "msi":"+ 3, 6, 9 y 12",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.coo.svg",
+                "label":"Obtén ",
+                "extraMsg":"Meses sin Intereses"
+             }
+          ],
+          "_id":"6100921986083270c63c2716",
+          "name":"AG"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Grandes descuentos!",
+                "msi":"+ Meses Sin Intereses",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspnager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             }
+          ],
+          "_id":"6100923b86083270c63c2717",
+          "name":"ANA"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles Precios! ",
+                "msi":"+ Promociones",
+                "label":"Obtén ",
+                "urlImg":"https://sfo3.digitaloceanspaces.",
+                "isSpecial":false,
+                "extraMsg":""
+             }
+          ],
+          "_id":"6100927686083270c63c2719",
+          "name":"ATLAS"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"11% de descuento",
+                "msi":"+ 3 y 6",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.ogotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"uber",
+                "dto":"Increíbles Precios",
+                "msi":" + 3, 6, 9 y 12",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"gmm",
+                "dto":"Increíbles Precios ",
+                "msi":"+ Promociones",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitpo.svg",
+                "extraMsg":""
+             }
+          ],
+          "_id":"610092b086083270c63c271b",
+          "name":"A"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":" ¡Increíbles Descuentos!",
+                "msi":"+ 6 y 12 ",
+                "label":"Obtén",
+                "urlImg":"https://sfo3..svg",
+                "isSpecial":false,
+                "extraMsg":"meses sin intereses"
+             }
+          ],
+          "_id":"610092e886083270c63c271c",
+          "name":""
+       }
+    ]
+ }

@@ -1,0 +1,709 @@
+{
+    "success":true,
+    "results":28,
+    "insurers":[
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles descuentos!",
+                "msi":"+ 3 y 6",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses Sin Intereses"
+             }
+          ],
+          "_id":"61008c8f86083270c63c2700",
+          "name":"ABA"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"30% de descuento",
+                "msi":"+ 3, 6, 9 y 12",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"vdir",
+                "dto":"¡Increíbles precios!",
+                "msi":"+ Meses sin intereses",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "extraMsg":""
+             }
+          ],
+          "_id":"610091ef86083270c63c2715",
+          "name":"AFIRME"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles descuentos!",
+                "msi":"+ 3, 6, 9 y 12",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "label":"Obtén ",
+                "extraMsg":"Meses sin Intereses"
+             }
+          ],
+          "_id":"6100921986083270c63c2716",
+          "name":"AIG"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Grandes descuentos!",
+                "msi":"+ Meses Sin Intereses",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             }
+          ],
+          "_id":"6100923b86083270c63c2717",
+          "name":"ANA"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles Precios! ",
+                "msi":"+ Promociones",
+                "label":"Obtén ",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             }
+          ],
+          "_id":"6100927686083270c63c2719",
+          "name":"ATLAS"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"11% de descuento",
+                "msi":"+ 3 y 6",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"uber",
+                "dto":"Increíbles Precios",
+                "msi":" + 3, 6, 9 y 12",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"gmm",
+                "dto":"Increíbles Precios ",
+                "msi":"+ Promociones",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "extraMsg":""
+             }
+          ],
+          "_id":"610092b086083270c63c271b",
+          "name":"AXA"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":" ¡Increíbles Descuentos!",
+                "msi":"+ 6 y 12 ",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"meses sin intereses"
+             }
+          ],
+          "_id":"610092e886083270c63c271c",
+          "name":"BANORTE"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"30% de descuento ",
+                "msi":"+ 6 y 12",
+                "label":"Hasta ",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             }
+          ],
+          "_id":"6100934086083270c63c271f",
+          "name":"ELAGUILA"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles Precios!",
+                "msi":"+ Promociones",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             }
+          ],
+          "_id":"6100935c86083270c63c2720",
+          "name":"ELPOTOSI"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles Precios!",
+                "msi":"+ Promociones",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             }
+          ],
+          "_id":"6100938286083270c63c2721",
+          "name":"GENERALDESEGUROS"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"Increíbles precios",
+                "msi":"+ 3, 6 y 12",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"motos",
+                "dto":"25% de descuento ",
+                "msi":"+ 3 ,6 y 12",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"camiones",
+                "dto":"¡Increíbles Precios!",
+                "msi":"+ 3, 6 y 12",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"uber",
+                "dto":"¡Increíbles Precios! ",
+                "msi":"+ 3 y 6",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin Intereses"
+             },
+             {
+                "type":"didi",
+                "dto":"¡Increíbles Precios!",
+                "msi":"+ 3, 6 y 12",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "extraMsg":""
+             },
+             {
+                "type":"hogar",
+                "dto":"",
+                "msi":"",
+                "label":"",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "extraMsg":""
+             },
+             {
+                "type":"gmm",
+                "dto":"¡Increíbles precios!",
+                "msi":"+Promociones ",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "extraMsg":"meses sin intereses"
+             }
+          ],
+          "_id":"6100939f86083270c63c2722",
+          "name":"GNP"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"30% de descuento",
+                "msi":"+ 3 y 6",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             }
+          ],
+          "_id":"610093ba86083270c63c2723",
+          "name":"HDI"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"10% de descuento",
+                "msi":"+ 3, 6 y 9",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             }
+          ],
+          "_id":"610093d886083270c63c2724",
+          "name":"INBURSA"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"10% de descuento",
+                "msi":"+ 6",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             }
+          ],
+          "_id":"6100941886083270c63c2726",
+          "name":"LATINO"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"20% de descuento",
+                "msi":"+ 6 y 12",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"gmm",
+                "dto":"¡Increíbles precios!",
+                "msi":"+ 3, 6 y 12",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "extraMsg":"Meses sin intereses"
+             }
+          ],
+          "_id":"6100943186083270c63c2727",
+          "name":"MAPFRE"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"18% de descuento",
+                "msi":"+ 3 y 6",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"uber",
+                "dto":"¡Increíbles Precios! ",
+                "msi":"+ 3 y 6",
+                "extraMsg":"Meses sin Intereses",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg"
+             },
+             {
+                "type":"uber",
+                "dto":"¡Increibles descuentos!",
+                "msi":"+ Promociones",
+                "extraMsg":"*",
+                "label":"Obtén"
+             },
+             {
+                "type":"motos",
+                "dto":"¡Increibles descuentos!",
+                "msi":"+ Promociones",
+                "extraMsg":"",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg"
+             }
+          ],
+          "_id":"6100944b86083270c63c2728",
+          "name":"MIGO"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles precios!",
+                "msi":"+ 3 y 6",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses Sin Intereses"
+             }
+          ],
+          "_id":"6100948f86083270c63c2729",
+          "name":"MIITUO"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles Descuentos!",
+                "msi":"+ 3, 6 y 12",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             }
+          ],
+          "_id":"610094b886083270c63c272a",
+          "name":"MULTIVA"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles descuentos!",
+                "msi":"+ Meses sin Intereses",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             }
+          ],
+          "_id":"610094cf86083270c63c272b",
+          "name":"PRIMEROSEGUROS"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"18% de descuento",
+                "msi":"+ Promociones Bancarias",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"taxis",
+                "dto":"¡Increíbles Precios!",
+                "msi":"+ Promociones Bancarias",
+                "label":"",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"uber",
+                "dto":"¡Increíbles Precios! ",
+                "msi":"+ Promociones Bancarias",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"beat",
+                "dto":"¡Increíbles Precios!",
+                "msi":"+ Promociones Bancarias",
+                "label":"",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"cabify",
+                "dto":"¡Increíbles Precios!",
+                "msi":"+ Promociones Bancarias",
+                "label":"",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"uber",
+                "dto":"¡Increíbles precios!",
+                "msi":"+ 3, 6, 9 y 12",
+                "label":"Obtén",
+                "urlImg":"https://ik.imagekit.io/r9nxv9q9zd7/promo.svg",
+                "isSpecial":true
+             },
+             {
+                "type":"motos",
+                "dto":"¡Increíbles descuentos!",
+                "msi":"+  Promociones Bancarias",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"camiones",
+                "dto":"¡Increíbles descuentos!",
+                "msi":"+ Promociones Bancarias",
+                "label":"",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"flotillas",
+                "dto":"¡Increíbles descuentos!",
+                "msi":"+ Promociones Bancarias ",
+                "label":"",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"didi",
+                "dto":"¡Increíbles Descuentos! ",
+                "msi":"+ Promociones Bancarias",
+                "label":"",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"vdir",
+                "dto":"Al inspeccionar previamente obtén increíbles descuentos",
+                "msi":"",
+                "label":"",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg"
+             }
+          ],
+          "_id":"610094ee86083270c63c272c",
+          "name":"QUALITAS"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"12% de descuento",
+                "msi":"+3 y 6",
+                "label":"Obtén ",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin Intereses"
+             }
+          ],
+          "_id":"6100953e86083270c63c272f",
+          "name":"BXMAS"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"15% de descuento",
+                "msi":"+ 3 y 6",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"uber",
+                "dto":"Increíbles Precios",
+                "msi":"+ 3, 6, 9 y 12",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             }
+          ],
+          "_id":"6100955e86083270c63c2730",
+          "name":"SURA"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"25% de descuento",
+                "msi":"+ 3 y 6",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             }
+          ],
+          "_id":"6100959f86083270c63c2732",
+          "name":"ZURICH"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles precios!",
+                "msi":"+ 3, 6, 9 y 12",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             }
+          ],
+          "_id":"611c10503dd894ab578b6fef",
+          "name":"CABIFY"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"30% de descuento",
+                "msi":"+ 3, 6 y 12",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin Intereses"
+             },
+             {
+                "type":"compara-ya",
+                "dto":"30% de descuento",
+                "msi":"+ 3, 6 y 12",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"segurosdeauto",
+                "dto":"30% de descuento",
+                "msi":"+ 3, 6 y 12 ",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"segurosautos",
+                "dto":"30% de descuento",
+                "msi":"+ 3, 6 y 12",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"mejorseguro",
+                "dto":"30% de descuento",
+                "msi":"+ 3, 6 y 12",
+                "label":"Hasta",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             }
+          ],
+          "_id":"612427d65982736a73898382",
+          "name":"funnel"
+       },
+       {
+          "promotions":[
+             {
+                "type":"taxis",
+                "dto":"¡Increíbles precios!",
+                "msi":"+ 3, 6 y 12 MSI",
+                "label":"Obtén",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":""
+             },
+             {
+                "type":"motos",
+                "dto":"25% de descuento",
+                "msi":"+ 3, 6 y 12",
+                "label":"Hasta ",
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "isSpecial":false,
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"cabify",
+                "dto":"¡Increíbles precios!",
+                "msi":"+ 3, 6, 9 y 12",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "extraMsg":"Meses sin intereses"
+             },
+             {
+                "type":"hogar",
+                "dto":"¡Increíbles precios!",
+                "msi":"+ 3, 6 y 12",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "extraMsg":""
+             },
+             {
+                "type":"gmm",
+                "dto":"¡Increíbles precios!",
+                "msi":"+ 3 y 6",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "extraMsg":"Meses sin Intereses"
+             }
+          ],
+          "_id":"614223c66bf1791bf9486d6e",
+          "name":"genericas"
+       },
+       {
+          "promotions":[
+             {
+                "type":"motos",
+                "dto":"¡Increíbles descuentos!",
+                "msi":"3 y 6 ",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg"
+             }
+          ],
+          "_id":"62879b450504640d9c53bf89",
+          "name":"AZTECA"
+       },
+       {
+          "promotions":[
+             {
+                "type":"standard",
+                "dto":"¡Increíbles Precios!",
+                "msi":"",
+                "label":"Obtén",
+                "isSpecial":false,
+                "urlImg":"https://sfo3.digitaloceanspaces.com/prod-mx/promos-manager/logotipo.svg",
+                "extraMsg":""
+             }
+          ],
+          "_id":"62d181ad5ecfd7e5c03a936f",
+          "name":"SPT"
+       }
+    ]
+ }
